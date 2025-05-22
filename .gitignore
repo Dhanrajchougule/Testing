@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+tasks.db
+
+# Virtualenv
+venv/
+ENV/
+env/
+
+# Flask
+instance/
+*.db
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+*.pid
+*.env
+.DS_Store
+*.tar
